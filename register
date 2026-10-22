@@ -1,0 +1,2 @@
+﻿Command: Invoke-RestMethod -Uri "http://localhost:5000/register" -Method Post -ContentType "application/json" -Body $body
+Output: User successfully registered
